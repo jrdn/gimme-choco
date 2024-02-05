@@ -1,7 +1,7 @@
 {
     "version": "gimme/1",
     "dependencies": [
-      "gimme-pkg/pwsh@main",
+      "jrdn/gimme-pwsh@main",
     ],
     "setup": [
         {
